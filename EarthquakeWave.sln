@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarthquakeWave.Plugins", "EarthquakeWave.Plugins.csproj", "{2677C832-83BD-1D38-7BBF-11FCA51309A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarthquakeWave", "EarthquakeWave.csproj", "{F7512F17-110A-4DF2-D9E6-BA9F32715E2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarthquakeWave.Editor.Plugins", "EarthquakeWave.Editor.Plugins.csproj", "{377C4C01-8A1A-7240-5EBE-A81B1D7C437A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarthquakeWave.Editor", "EarthquakeWave.Editor.csproj", "{9D9F2A56-1387-2BAB-0CFE-2536498ED0C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2677C832-83BD-1D38-7BBF-11FCA51309A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2677C832-83BD-1D38-7BBF-11FCA51309A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2677C832-83BD-1D38-7BBF-11FCA51309A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2677C832-83BD-1D38-7BBF-11FCA51309A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7512F17-110A-4DF2-D9E6-BA9F32715E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7512F17-110A-4DF2-D9E6-BA9F32715E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7512F17-110A-4DF2-D9E6-BA9F32715E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7512F17-110A-4DF2-D9E6-BA9F32715E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{377C4C01-8A1A-7240-5EBE-A81B1D7C437A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377C4C01-8A1A-7240-5EBE-A81B1D7C437A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377C4C01-8A1A-7240-5EBE-A81B1D7C437A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377C4C01-8A1A-7240-5EBE-A81B1D7C437A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D9F2A56-1387-2BAB-0CFE-2536498ED0C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D9F2A56-1387-2BAB-0CFE-2536498ED0C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D9F2A56-1387-2BAB-0CFE-2536498ED0C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D9F2A56-1387-2BAB-0CFE-2536498ED0C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
